@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-project2-simple-voting",
+  "version": "1.0.0",
+  "description": "Smart Contract Voting System untuk Project 2",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
